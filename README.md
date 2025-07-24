@@ -1,5 +1,7 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bebas+Neue&weight=800&pause=1000&color=F77237&center=true&width=435&lines=Hi+there!+%F0%9F%98%84;I'm+Kath!)](https://git.io/typing-svg)
+
 # 💫 About Me:
-Hi there! I'm Kath!<br><br>I'm a Mechanical Engineer with a passion for creation. I'm now channeling my engineering problem-solving skills into the world of software development.<br><br>- 🚀 My current focus is mastering **Kotlin** to build intuitive and efficient mobile applications for Android.<br>- 🔧 I believe my engineering background gives me a unique perspective on software architecture and user-centric design.<br>- 📫 Feel free to connect with me! I'm always open to discussing technology, engineering, or new project ideas.
+I'm a Mechanical Engineer with a passion for creation. I'm now channeling my engineering problem-solving skills into the world of software development.<br><br>- 🚀 My current focus is mastering **Kotlin** to build intuitive and efficient mobile applications for Android.<br>- 🔧 I believe my engineering background gives me a unique perspective on software architecture and user-centric design.<br>- 📫 Feel free to connect with me! I'm always open to discussing technology, engineering, or new project ideas.
 
 
 ## 🌐 Socials:
